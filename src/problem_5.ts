@@ -4,3 +4,4 @@ const problem5= (param:unknown):void=>{
     else console.error('please input string');
 }
 problem5('bhalo achi');
+problem5(1);
